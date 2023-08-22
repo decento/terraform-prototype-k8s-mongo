@@ -1,5 +1,5 @@
 # terraform-prototype-k8s-mongo
-MongoDB with express, on docker-desktop kubernetes.
+MongoDB with express, on docker-desktop kubernetes (tested on Mac M1)
 
 
 ## Setup Ingress Controller
